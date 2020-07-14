@@ -1,0 +1,18 @@
+{
+  "name": "levelup:mining_bonus",
+  "type": "levelup:mining_bonus",
+  "levels": [
+    5
+  ],
+  "prerequisites": [
+
+  ],
+  "stack": {
+    "item": "thaumcraft:seal",
+    "data": 4
+  },
+  "column": 0,
+  "row": 0,
+  "enabled": true,
+  "active": true
+}

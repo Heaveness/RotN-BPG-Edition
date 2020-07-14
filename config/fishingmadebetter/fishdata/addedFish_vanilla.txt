@@ -1,0 +1,14 @@
+	Fish		|Time	|Weather|Rarity	|BiomeIDs
+===============================================================
+	Salmon		|Any	|Any	|C	|92,62,102,103
+	Pufferfish	|Any	|Any	|C	|92,62,102,103
+	Cod		|Any	|Any	|C	|92,62,102,103
+	Clownfish 	|Any	|Any	|C 	|92,62,102,103
+
+	
+	Fish		|Bait		|Scale Item
+================================================================
+	Salmon		|Beetroot	|Iron Nugget
+	Pufferfish	|Iron Nugget	|Sponge
+	Cod		|Beetroot	|Slime Ball
+	Clownfish	|Mushroom	|Gold Nugget

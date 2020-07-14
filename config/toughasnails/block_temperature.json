@@ -1,0 +1,105 @@
+[
+  {
+    "state": {
+      "block": "toughasnails:campfire",
+      "properties": {
+        "burning": "true"
+      }
+    },
+    "temperature": 10.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lit_furnace",
+      "properties": {}
+    },
+    "temperature": 3.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:flowing_lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:magma",
+      "properties": {}
+    },
+    "temperature": 12.5
+  },
+  {
+    "state": {
+      "block": "ancientwarfarestructure:fire_pit",
+      "properties": {
+      }
+    },
+    "temperature": 6.0
+  },
+  {
+    "state": {
+      "block": "ancientwarfarestructure:brazier_ember",
+      "properties": {
+      }
+    },
+    "temperature": 4.0
+  },
+  {
+    "state": {
+      "block": "ancientwarfarestructure:brazier_flame",
+      "properties": {
+      }
+    },
+    "temperature": 4.0
+  },
+  {
+    "state": {
+      "block": "minecraftfuture:campfire",
+      "properties": {}
+    },
+    "temperature": 5.0
+  },
+  {
+    "state": {
+      "block": "minecraftfuture:blast_furnace",
+      "properties": {}
+    },
+    "temperature": 4.0
+  },
+  {
+    "state": {
+      "block": "betternether:netherrack_furnace",
+      "properties": {}
+    },
+    "temperature": 6.0
+  },
+  {
+    "state": {
+      "block": "betternether:cincinnasite_forge",
+      "properties": {}
+    },
+    "temperature": 5.0
+  },
+  {
+    "state": {
+      "block": "ancientwarfarestructure:fire_pit",
+      "properties": {}
+    },
+    "temperature": 5.0
+  },
+  {
+    "state": {
+      "block": "betternether:cincinnasite_fire_bowl",
+      "properties": {}
+    },
+    "temperature": 2.0
+  }
+]

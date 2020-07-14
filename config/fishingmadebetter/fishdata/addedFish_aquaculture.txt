@@ -1,0 +1,89 @@
+	Fish		|Time	|Weather|Rarity	|BiomeIDs
+=============================================================================
+	Smallmouth Bass	|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26
+	Bluegill	|Any	|Any	|C	|92,62| 69,59,60,63,1
+	Brown Trout	|Any	|Any	|C	|65,55,45,66,46,91
+	Carp		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26
+	Catfish		|Any	|Any	|C	|65,55,45,66,46,91
+	Perch		|Night	|Any	|C	|102,103| 40,42,7,15,16,25,26
+	Boulti		|Any	|Any	|C	|100| 2,108
+	Synodontis	|Night	|Any	|C	|102,103| 40,42,7,15,16,25,26
+	Atlantic Cod	|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26
+	Atlantic Herring|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26
+	Pollock		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26
+	Jellyfish	|Any	|Any	|C	|102,103,104,105,106
+	Red Grouper	|Day	|Rain	|C	|102,103| 40,42,7,15,16,25,26
+	Arapaima	|Any	|Any	|C	|100| 2,108
+	Piranha		|Any	|Any	|C	|102,103,65,45,55,66,105,106
+	Tambaqui	|Night	|Any	|C	|102,103| 40,42,7,15,16,25,26
+------------------------|
+	Gar		|Day	|Rain	|U	|102,103| 40,42,7,15,16,25,26
+	Capitaine	|Day	|Any	|U	|102,103| 40,42,7,15,16,25,26
+	Blackfish	|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26
+	Electric Eel	|Day	|Any	|U	|102,103| 40,42,7,15,16,25,26
+	Atlantic Halibut|Night	|Any	|U	|102,103| 40,42,7,15,16,25,26
+	Pink Salmon 	|Any	|Rain 	|U	|102,103| 40,42,7,15,16,25,26
+	Rainbow Trout	|Night	|Rain 	|U	|102,103| 40,42,7,15,16,25,26
+	Tuna		|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26
+	Arrau Turtle	|Day	|Any	|U 	|102,103,104,105,106,92,62,65,45,66,46,81,109
+	Bagrid		|Day	|Any	|U 	|102,103,104,105,106,92,62,65,45,66,46,81,109
+	Brown Shrooma	|Any	|Any	|U	|91,109,55,65| 111,6,14,15
+	Red Shrooma	|Night	|Any	|U 	|91,109,55,65| 111,6,14,15
+	Shark		|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26
+------------------------|
+	Muskellunge	|Night	|Any	|R	|104,42,72,81,62 | 60,63,42,111
+	Goldfish	|Night	|Rain	|R	|104,42,72,81,73,72| 60,63,42,111
+	Swordfish	|Any	|Rain	|R	|102,103| 40,42,7,15,16,25,26
+	Whale		|Day	|Any	|R	|102,103| 40,42,7,15,16,25,26
+------------------------|
+	Message in a bottle 	|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26
+	Treasure Chest 		|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26
+	Neptune's Bounty 	|Any	|Any	|R	|102,103| 40,42,7,15,16,25,26
+
+
+	Fish		|Bait		|Scale Item
+==============================================================================
+	Baits(Common): 	Beetroot, Mushroom, Iron Nugget	
+	Baits(Uncommon): Fish, Carrot, Gold Nugget
+	Baits (Rare): 	Fermented Spider Eye (FSE), Golden Apple, Diamond
+------------------------|
+	Smallmouth Bass	|Mushroom	|Coal
+	Bluegill	|Iron Nugget	|Flint
+	Brown Trout	|Mushroom	|Ink Sac
+	Carp		|Mushroom	|Mushroom
+	Catfish		|Mushroom	|String
+	Perch		|Beetroot	|Lapis
+	Bayad		|Beetroot	|String
+	Boulti		|Iron Nugget	|Bonemeal
+	Syndontis	|Mushroom	|Spider Eye
+	Atlantic Cod	|Iron Nugget	|Iron Nugget
+	Atlantic Herring|Iron Nugget	|Gold Nugget
+	Pollock		|Mushroom	|Ice
+	Jellyfish	|Beetroot	|Slime Ball
+	Red Grouper	|Beetroot	|Redstone
+	Arapaima	|Mushroom	|Spider Eye
+	Piranha		|Beetroot	|Iron Nugget
+	Tambaqui	|Iron Nugget	|Mushroom
+------------------------|
+	Gar		|Fish		|Fermented Spider Eye
+	Capitaine	|Carrot		|Blaze Rod
+	Blackfish	|Gold Nugget	|Gunpowder
+	Electric Eel	|Fish		|Glowstone
+	Atlantic Halibut|Fish		|Gold Ingot
+	Pink Salmon	|Carrot		|Iron Ingot
+	Rainbow Trout	|Carrot		|Golden Carrot
+	Tuna		|Fish		|Iron Ingot
+	Arrau Turtle	|Fish		|Diamond
+	Bagrid		|Fish		|Emerald
+	Brown Shrooma	|Gold Nugget	|Mushroom Stew
+	Red Shrooma	|Gold Nugget	|Gold Ingot
+	Shark		|Fish		|Fermented Spider Eye
+------------------------|
+	Muskellunge	|FSE		|Golden Apple
+	Goldfish	|Diamond	|1 Nether Star
+	Swordfish	|FSE		|1 Diamond Sword
+	Whale		|Golden Apple	|1 Enchanted Golden Apple
+------------------------|
+	Bottled Message	|Iron Nugget	|Glass Bottle
+	Treasure Chest	|Gold Nugget	|Chest
+	Neptune's Bounty|Diamond	|Ender Chest

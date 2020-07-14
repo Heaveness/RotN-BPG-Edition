@@ -1,0 +1,22 @@
+{
+  "name": "levelup:lumbering",
+  "type": "levelup:mining_bonus",
+  "levels": [
+    2,
+    3,
+    5,
+    6,
+    7
+  ],
+  "prerequisites": [
+    "levelup:woodcutting"
+  ],
+  "divisor": 10,
+  "stack": {
+    "item": "pyrotech:log_pile"
+  },
+  "column": 2,
+  "row": 1,
+  "enabled": true,
+  "active": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "levelup:archaeologist",
+  "bonus": "levelup:mining_bonus",
+  "localized_name": "Explorer",
+  "description": "To discover the unknown from the forgotten realms to the farthest regions. Bravery is your most tenacious quality.",
+  "skills": [
+    {
+      "name": "levelup:sprintspeed",
+      "level": 2
+    },
+    {
+      "name": "levelup:fallprotect",
+      "level": 2
+    },
+    {
+      "name": "levelup:stonecutting",
+      "level": 1
+    }
+  ]
+}

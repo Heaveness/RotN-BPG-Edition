@@ -1,0 +1,27 @@
+{
+  "name": "levelup:sprintspeed",
+  "type": "levelup:mining_bonus",
+  "levels": [
+    1,
+    2,
+    2,
+    3,
+    4,
+    5,
+    5,
+    6,
+    6,
+    7
+  ],
+  "prerequisites": [
+
+  ],
+  "divisor": 40,
+  "stack": {
+    "item": "thaumcraft:traveller_boots"
+  },
+  "column": 3,
+  "row": 0,
+  "enabled": true,
+  "active": true
+}

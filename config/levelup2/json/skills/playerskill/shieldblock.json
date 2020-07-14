@@ -1,0 +1,22 @@
+{
+  "name": "levelup:shieldblock",
+  "type": "levelup:combat_bonus",
+  "levels": [
+    2,
+    3,
+    5,
+    6,
+    7
+  ],
+  "prerequisites": [
+    "levelup:naturalarmor"
+  ],
+  "divisor": 20,
+  "stack": {
+    "item": "spartanshields:shield_basic_lead"
+  },
+  "column": 4,
+  "row": 1,
+  "enabled": true,
+  "active": true
+}

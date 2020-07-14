@@ -1,0 +1,20 @@
+{
+  "name": "levelup:miner",
+  "bonus": "levelup:mining_bonus",
+  "localized_name": "Miner",
+  "description": "Carve your own path, through rocks and stones! Leave no minerals behind!",
+  "skills": [
+    {
+      "name": "levelup:stonecutting",
+      "level": 2
+    },
+    {
+      "name": "levelup:fallprotect",
+      "level": 1
+    },
+    {
+      "name": "levelup:prospecting",
+      "level": 2
+    }
+  ]
+}

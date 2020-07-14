@@ -1,0 +1,335 @@
+{
+  "pools" : [
+    {
+      "name": "fishing_bonus",
+      "rolls" : 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:bone",
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "minecraft:reeds",
+          "weight": 16
+        },
+        {
+          "type": "item",
+          "name": "minecraft:arrow",
+          "weight": 14
+        },
+        {
+          "type": "item",
+          "name": "minecraft:apple",
+          "weight": 11
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bucket",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glass_bottle",
+          "weight": 11
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ender_pearl",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 6
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone_block",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "spartanweaponry:bolt",
+          "weight": 14
+        },
+        {
+          "type": "item",
+          "name": "aquaculture:loot",
+	  "functions": [{ "function": "set_data", "data": 0}],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "aquaculture:loot",
+	  "functions": [{ "function": "set_data", "data": 1}],
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "aquaculture:loot",
+	  "functions": [{ "function": "set_data", "data": 2}],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "aquaculture:loot",
+	  "functions": [{ "function": "set_data", "data": 3}],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "aquaculture:loot",
+	  "functions": [{ "function": "set_data", "data": 4}],
+          "weight": 20
+        },
+        {
+          "type": "item",
+          "name": "aquaculture:loot",
+	  "functions": [{ "function": "set_data", "data": 5}],
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "aquaculture:loot",
+	  "functions": [{ "function": "set_data", "data": 6}],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "aquaculture:loot",
+	  "functions": [{ "function": "set_data", "data": 7}],
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "aquaculture:fish",
+	  "functions": [{ "function": "set_data", "data": 38}],
+          "weight": 25
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:canteen",
+	  "functions": [{ "function": "set_data", "data": 0}],
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "toughasnails:charcoal_filter",
+	  "functions": [{ "function": "set_data", "data": 0}],
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "waystones:warp_scroll",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "dungeontactics:magic_scroll",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "dungeontactics:steel_ingot",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "dungeontactics:steel_nugget",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:blank_scroll",
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "ebwizardry:identification_scroll",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "waystones:warp_stone",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "corpsecomplex:scroll",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "quark:glass_shards",
+	  "functions": [{ "function": "set_data", "data": 0}],
+          "weight": 8
+        },
+        {
+          "type": "item",
+          "name": "bountifulbaubles:spectralsilt",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "treasure2:silver_coin",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "treasure2:gold_coin",
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "treasure2:wood_key",
+          "weight": 12
+        },
+        {
+          "type": "item",
+          "name": "treasure2:stone_key",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "treasure2:iron_key",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "scalinghealth:crystalshard",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "totemexpansion:totem_base",
+          "weight": 8
+        },
+        {
+          "type": "item",
+          "name": "spartanshields:shield_basic_wood",
+          "weight": 9
+        },
+        {
+          "type": "item",
+          "name": "locks:lock_pick",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "betterwithmods:dynamite",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "mutantbeasts:chemical_x",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:blank_rune",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "contenttweaker:magic_orb",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "astralsorcery:itemcraftingcomponent",
+	  "functions": [{ "function": "set_data", "data": 0}],
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "biomesoplenty:gem",
+	  "functions": [{ "function": "set_data", "data": 1}],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "biomesoplenty:gem",
+	  "functions": [{ "function": "set_data", "data": 2}],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "biomesoplenty:gem",
+	  "functions": [{ "function": "set_data", "data": 6}],
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "betterwithmods:material",
+	  "functions": [{ "function": "set_data", "data": 3}],
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "betterwithmods:material",
+	  "functions": [{ "function": "set_data", "data": 7}],
+          "weight": 7
+        },
+        {
+          "type": "item",
+          "name": "doggytalents:doggy_charm",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_boots",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_damage",
+              "damage": {
+                "min": 0,
+                "max": 0.90
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "thaumcraft:traveller_boots",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_damage",
+              "damage": {
+                "min": 0,
+                "max": 0.90
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_boots",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_damage",
+              "damage": {
+                "min": 0,
+                "max": 0.90
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

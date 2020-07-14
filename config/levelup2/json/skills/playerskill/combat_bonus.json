@@ -1,0 +1,19 @@
+{
+  "name": "levelup:combat_bonus",
+  "type": "levelup:combat_bonus",
+  "levels": [
+    5
+  ],
+  "prerequisites": [
+
+  ],
+  "divisor": 10,
+  "stack": {
+    "item": "thaumcraft:seal",
+    "data": 2
+  },
+  "column": 0,
+  "row": 0,
+  "enabled": true,
+  "active": true
+}

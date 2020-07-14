@@ -1,0 +1,16 @@
+{
+  "name": "levelup:fisherman",
+  "bonus": "levelup:craft_bonus",
+  "localized_name": "Fisherman",
+  "description": "All aquatic life tremble before your name. None can escape the fisherman's grasp.",
+  "skills": [
+    {
+      "name": "levelup:fishbonus",
+      "level": 3
+    },
+    {
+      "name": "levelup:furnacespeed",
+      "level": 2
+    }
+  ]
+}

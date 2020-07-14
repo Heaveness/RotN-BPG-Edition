@@ -1,0 +1,21 @@
+{
+  "name": "levelup:furnacespeed",
+  "type": "levelup:craft_bonus",
+  "levels": [
+    2,
+    3,
+    5,
+    6,
+    7
+  ],
+  "prerequisites": [
+
+  ],
+  "stack": {
+    "item": "minecraftfuture:blast_furnace"
+  },
+  "column": 1,
+  "row": 0,
+  "enabled": true,
+  "active": true
+}

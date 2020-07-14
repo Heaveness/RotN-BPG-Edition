@@ -1,0 +1,20 @@
+{
+  "name": "levelup:scout",
+  "bonus": "levelup:combat_bonus",
+  "localized_name": "Archer",
+  "description": "Let thy hands guide thy arrow to its rightful prey.",
+  "skills": [
+    {
+      "name": "levelup:bowdraw",
+      "level": 2
+    },
+    {
+      "name": "levelup:arrowspeed",
+      "level": 1
+    },
+    {
+      "name": "levelup:stealth",
+      "level": 1
+    }
+  ]
+}

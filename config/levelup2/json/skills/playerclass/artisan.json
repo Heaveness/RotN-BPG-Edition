@@ -1,0 +1,16 @@
+{
+  "name": "levelup:artisan",
+  "bonus": "levelup:craft_bonus",
+  "localized_name": "Craftsman",
+  "description": "Tamer of the flaming coals. Gifted by the blacksmith god.",
+  "skills": [
+    {
+      "name": "levelup:furnacespeed",
+      "level": 2
+    },
+    {
+      "name": "levelup:furnacebonus",
+      "level": 3
+    }
+  ]
+}

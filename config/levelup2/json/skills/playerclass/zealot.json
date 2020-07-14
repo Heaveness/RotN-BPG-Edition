@@ -1,0 +1,20 @@
+{
+  "name": "levelup:zealot",
+  "bonus": "levelup:combat_bonus",
+  "localized_name": "Berzerker",
+  "description": "Fueled by blood. Freed through rage.",
+  "skills": [
+    {
+      "name": "levelup:swordcrit",
+      "level": 1
+    },
+    {
+      "name": "levelup:sprintspeed",
+      "level": 1
+    },
+    {
+      "name": "levelup:sworddamage",
+      "level": 2
+    }
+  ]
+}

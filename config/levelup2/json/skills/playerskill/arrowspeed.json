@@ -1,0 +1,22 @@
+{
+  "name": "levelup:arrowspeed",
+  "type": "levelup:combat_bonus",
+  "levels": [
+    2,
+    3,
+    4,
+    4,
+    6
+  ],
+  "prerequisites": [
+
+  ],
+  "divisor": 10,
+  "stack": {
+    "item": "betterwithaddons:greatarrow_lightning"
+  },
+  "column": 2,
+  "row": 0,
+  "enabled": true,
+  "active": true
+}

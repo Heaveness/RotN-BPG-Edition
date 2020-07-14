@@ -1,0 +1,20 @@
+{
+  "name": "levelup:lumberjack",
+  "bonus": "levelup:mining_bonus",
+  "localized_name": "Gatherer",
+  "description": "Destroyer of trees. Crusher of stones. The Terraformer of the world.",
+  "skills": [
+    {
+      "name": "levelup:woodcutting",
+      "level": 2
+    },
+    {
+      "name": "levelup:stonecutting",
+      "level": 2
+    },
+    {
+      "name": "levelup:flintloot",
+      "level": 2
+    }
+  ]
+}

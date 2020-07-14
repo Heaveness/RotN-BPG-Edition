@@ -1,0 +1,73 @@
+	Fish		|Time	|Weather|Rarity	|BiomeIDs
+=============================================================================
+	Anchovy		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Bass		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Carp		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Catfish		|Any	|Any	|C	|65,55,45,66,46,91
+	Charr		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Crayfish	|Any	|Any	|C	|65,55,45,66,46,91
+	Frog		|Any	|Rain	|C	|102,103,65,55,45,66,46,91
+						| 40,42,7,15,16,25,26,70,78
+	Grouper		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Herring		|Day	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Jellyfish	|Any	|Any	|C	|102,103,104,105,106| ^
+	Mudfish		|Day	|Any	|C	|65,55,45,66,46,91
+	Perch		|Night	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Snapper		|Any	|Rain	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Tilapia		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Trout		|Any 	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Green Heart Fish|Night	|Any	|C	|102,103,100,107,58
+	Sardine		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Shrimp		|Any	|Any	|C	|102,103| 40,42,7,15,16,25,26,70,78
+	Snail		|Any	|Any	|C	|65,55,45,66,46,91
+	Tofish		|Any	|Rain	|C	|102,103| 40,42,7,15,16,25,26,70,78
+------------------------|
+	Clam		|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26,70,78
+	Crab		|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26,70,78
+	Eel		|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26,70,78
+	Octopus		|Night	|Any	|U	|102,103| 40,42,7,15,16,25,26,70,78
+	Scallop		|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26,70,78
+	Tuna		|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26,70,78
+	Turtle		|Any	|Rain	|U	|102,103,104,105,106,92,62,65,45,66,46,81,109
+	Walleye		|Night	|Any	|U	|102,103| 40,42,7,15,16,25,26,70,78
+	Mussel		|Any	|Any	|U	|102,103| 40,42,7,15,16,25,26,70,78
+	Oyster		|Night	|Any	|U	|102,103| 40,42,7,15,16,25,26,70,78
+
+
+	Name		|Bait		|Scale Item
+==============================================================================
+	Baits(Common): 	Beetroot, Mushroom, Iron Nugget	
+	Baits(Uncommon): Fish, Carrot, Gold Nugget
+	Baits (Rare): 	Fermented Spider Eye (FSE), Golden Apple, Diamond
+------------------------|
+	Anchovy		|Mushroom	|Flint
+	Bass		|Mushroom	|Coal
+	Carp		|Mushroom 	|Mushroom
+	Catfish		|Mushroom 	|String
+	Charr		|Iron Nugget	|String
+	Crayfish	|Mushroom	|Spider Eye
+	Frog		|Mushroom	|Slime Ball
+	Grouper		|Beetroot	|Iron Nugget
+	Herring		|Iron Nugget	|Redstone
+	Jellyfish	|Beetroot	|Slime Ball
+	Mudfish		|Iron Nugget	|Ink Sac
+	Perch		|Beetroot	|Lapis
+	Snapper		|Iron Nugget	|Bonemeal
+	Tilapia		|Iron Nugget	|Ice
+	Trout		|Iron Nugget	|Iron Nugget
+	Green Heart Fish|Beetroot	|Gold Nugget
+	Sardine		|Beetroot	|Flint
+	Shrimp 		|Beetroot	|String
+	Snail 		|Mushroom	|Slime Ball
+	Tofish		|Beetroot	|Beetroot
+------------------------|
+	Clam		|Carrot		|Gold Ingot
+	Crab 		|Gold Nugget	|Golden Carrot
+	Eel		|Fish		|Gunpowder
+	Octopus		|Fish		|Blaze Rod
+	Scallop		|Carrot		|Iron Ingot
+	Tuna		|Fish		|Iron Ingot
+	Turtle		|Fish		|Emerald
+	Walleye		|Gold Nugget	|Fermented Spider Eye
+	Mussel		|Carrot		|Iron Ingot
+	Oyster		|Gold Nugget	|Nether Quartz

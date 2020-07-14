@@ -1,0 +1,102 @@
+	Fish		|Time	|Weather|Rarity	|BiomeIDs
+=========================================================================
+	Squid 		|Any 	|Any 	|C 	|102,103 | 40,42,7,15,16,25,26
+	Piranha 	|Any 	|Any 	|C 	|102,103,65,45,55,66,105,106
+	Piranha					| 111,6,21,70
+	Mandarinfish 	|Any 	|Any 	|C 	|92,62 | 69,59,60,63,1
+	Ruffe 		|Day 	|Rain 	|C	|92,62 |69,59,60,63,1
+	Mud Tuna 	|Any 	|Any	|C 	|65,55,45,66,46,91
+	Swamp Plaice 	|Night 	|Any	|C	|65,55,45,66,46,91
+	Frost Minnow 	|Night 	|Any 	|C 	|102,103 |26,40
+	Glacier Anchovy |Day	|Any 	|C	|102,103 |26,40
+	Catfish 	|Any	|Any	|C	|65,55,45,66,46,91| 54,6,7,21
+	Red Shroomfin	|Night	|Any	|C	|91,109,55,65| 111,6,14,15
+	Brown Shroomfin	|Any	|Any	|C	|91,109,55,65| 111,6,14,15
+	Bone Fish 	|Night	|Any	|C	|73,72|	54,70
+	Spookyfin	|Night	|Any	|C	|73,72| 54
+	Obsidian Bream	|Night	|Any	|C	|100,105,106,102,103| 54,108,2
+	Magma Jellyfish	|Night	|Any	|C	|100,105,106,102,103| 54,108,2
+	Quartz Chub	|Night	|Any	|C	|100,105,106,102,103| 54,108,2
+------------------------|
+	Sandy Bass	|Any 	|Any 	|U 	|102,103,104,42
+						| 78,68,70,69,111,59,63,1
+	Sunfish 	|Any 	|Rain 	|U 	|102,103| 40,42,7,15,16,25,26
+	Sparkling Ell 	|Night 	|Any 	|U 	|100 |2,108
+	Snowy Walleye 	|Any 	|Any 	|U 	|102,103| 40,42,7,15,16,25,26
+	Pike 		|Any	|Any	|U	|92,62|69,59,60,63,1
+	Blue Jellyfish 	|Night 	|Any 	|U 	|102,103,104,105,106
+	Green Jellyfish |Day	|Any 	|U 	|102,103,104,105,106
+	Angelfish 	|Any 	|Rain 	|U 	|42,104,103,102| 63,1,16,25,26,111
+	Fungi Catfish	|Any	|Any	|U	|91,109,55,65| 54,6,7,21
+	ExplosiveCrucian|Day	|Any	|U	|100,105,106,102,103| 54,108,2
+	Ender Shad	|Night	|Any	|U	|42,104| 108,70
+	Pearl Sardine 	|Night	|Any	|U	|42,104| 108,70
+	Nether Sturgeon	|Night	|Any	|U	|100,105,106,102,103| 54,108,2
+	Withered Crucian|Night	|Any	|U	|100,105,106,102,103| 54,108,2
+	Blaze Pike	|Night	|Any	|U	|100,105,106,102,103| 54,108,2
+------------------------|
+	Flarefin Koi	|Night	|Any	|R	|104,42,72,81,100,105,106,102,103
+	Golden Koi 	|Night 	|Any 	|R	|104,42,72,81| 60,63,42,111
+	Sponge Eater 	|Any 	|Rain 	|R 	|104,42,72,81| 60,63,42,111
+	Abyssal Lurker 	|Night	|Any	|R	|104,42,72,81| 60,63,42,111
+	Cursed Koi 	|Night	|Any	|R	|104,42,72,81| 60,63,42,111
+	Specular Snapper|Any	|Rain	|R	|104,42,72,81| 60,63,42,111
+	Cave Trout	|Night	|Any	|R	|104,42,72,81| 60,63,42,111
+	Crystal Mullet	|Night	|Any	|R	|104,42,72,81| 60,63,42,111
+	Charged Bullhead|Any	|Any	|R	|104,42,72,81| 60,63,42,111
+	Chorus Koi	|Night	|Rain	|R	|104,42,72,81| 60,63,42,111
+	Anglerfish	|Night	|Any	|R	|102,103| 40,42,7,15,16,25,26
+	Magikarp	|Day	|Rain	|R	|104,42,72,81| 60,63,42,111
+
+
+	Fish		|Bait		|Scale Item
+==========================================================================
+	Baits(Common): 	Beetroot, Mushroom, Iron Nugget	
+	Baits(Uncommon): Fish, Carrot, Gold Nugget
+	Baits (Rare): 	Fermented Spider Eye (FSE), Golden Apple, Diamond
+------------------------|
+	Squid 		|Beetroot	|Ink Sac
+	Piranha		|Beetroot	|Iron Nugget
+	Mandarinfish	|Mushroom 	|Coal
+	Ruffe		|Iron Nugget 	|Lapis
+	Mud Tuna	|Iron Nugget	|Slime Ball
+	Swamp Plaice	|Iron Nugget 	|Redstone
+	Frost Minnow	|Iron Nugget 	|Ice
+	Glacier Anchovy	|Iron Nugget 	|Bonemeal
+	Catfish 	|Mushroom	|String
+	Red Shroomfish 	|Mushroom 	|Nether Wart
+	Brown Shroomfish|Mushroom 	|Mushroom
+	Bone Fish 	|Iron Nugget	|Bone
+	Spookyfin	|Beetroot	|Spider Eye
+	Obsidian Bream 	|Iron Nugget 	|Obsidian
+	Magma Jellyfish |Iron Nugget 	|Blaze Powder
+	Quartz Chub 	|Iron Nugget	|Nether Quartz
+------------------------|
+	Sandy Bass	|Fish		|Fermented Spider Eye
+	Sun Fish	|Gold Nugget	|Golden Carrot
+	Sparkling Ell	|Gold Nugget	|Glowstone
+	Snowy Walleye	|Carrot		|Iron Ingot
+	Pike 		|Fish		|Iron Ingot
+	Blue Jellyfish 	|Fish 		|Diamond
+	Green Jellyfish	|Fish 		|Emerald
+	Angelfish	|Gold Nugget	|Gold Ingot
+	Fungi Catfish	|Carrot		|Mushroom Stew
+	ExplosiveCrucian|Fish		|Gunpowder
+	Ender Shad	|Gold Nugget	|Chorus Fruit
+	Pearl Sardine	|Gold Nugget	|Ender Pearl
+	Nether Sturgeon	|Fish		|Magma Cream
+	Withered Crucian|Gold Nugget	|Ghast Tear
+	Blaze Pike	|Carrot		|Blaze Rod
+------------------------|
+	Flarefin Koi 	|FSE 		|Golden Apple
+	Golden Koi	|Golden Apple	|1 Enchanted Golden Apple
+	Cursed Koi 	|Diamond 	|Dragon's Breath
+	Chorus Koi	|Diamond 	|1 Dragon's Egg
+	Sponge Eater 	|FSE		|Wet Sponge
+	Abyssal Lurker 	|Golden Apple 	|Block of Diamond
+	Specular Snapper|FSE		|1 Enchanted Golden Apple
+	Cave Trout	|Diamond 	|Block of Gold
+	Crystal Mullet 	|Diamond 	|1 Nether Star
+	Charged Bullhead|Golden Apple 	|Block of Emerald
+	Anglerfish	|Diamond	|Sea Lantern
+	Magikarp	|FSE		|Golden Apple

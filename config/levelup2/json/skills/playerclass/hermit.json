@@ -1,0 +1,20 @@
+{
+  "name": "levelup:hermit",
+  "bonus": "levelup:craft_bonus",
+  "localized_name": "Alchemist",
+  "description": "The creator of all potions and poisons. Life and death at your beck and call.",
+  "skills": [
+    {
+      "name": "levelup:furnacespeed",
+      "level": 1
+    },
+    {
+      "name": "levelup:cropgrowth",
+      "level": 1
+    },
+    {
+      "name": "levelup:brewingspeed",
+      "level": 3
+    }
+  ]
+}

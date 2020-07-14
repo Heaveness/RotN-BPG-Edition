@@ -1,0 +1,20 @@
+{
+  "name": "levelup:farmer",
+  "bonus": "levelup:craft_bonus",
+  "localized_name": "Farmer",
+  "description": "All organic plants will bow before your prowess.",
+  "skills": [
+    {
+      "name": "levelup:cropgrowth",
+      "level": 2
+    },
+    {
+      "name": "levelup:harvestbonus",
+      "level": 2
+    },
+    {
+      "name": "levelup:woodcutting",
+      "level": 1
+    }
+  ]
+}

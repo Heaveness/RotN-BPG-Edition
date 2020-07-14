@@ -1,0 +1,16 @@
+{
+  "name": "levelup:assassin",
+  "bonus": "levelup:combat_bonus",
+  "localized_name": "Assassin",
+  "description": "A shadow in the Sun, a blade in the Night. A keeper of silence...",
+  "skills": [
+    {
+      "name": "levelup:stealth",
+      "level": 3
+    },
+    {
+      "name": "levelup:swordcrit",
+      "level": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "levelup:fallprotect",
+  "type": "levelup:mining_bonus",
+  "levels": [
+    2,
+    3,
+    5,
+    6,
+    7
+  ],
+  "divisor": 20,
+  "prerequisites": [
+
+  ],
+  "stack": {
+    "item": "dungeontactics:bounce_boots"
+  },
+  "column": 0,
+  "row": 1,
+  "enabled": true,
+  "active": true
+}

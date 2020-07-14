@@ -1,0 +1,16 @@
+{
+  "name": "levelup:warrior",
+  "bonus": "levelup:combat_bonus",
+  "localized_name": "Warrior",
+  "description": "Blessed are they who stand before the wicked and do not waver.",
+  "skills": [
+    {
+      "name": "levelup:shieldblock",
+      "level": 1
+    },
+    {
+      "name": "levelup:naturalarmor",
+      "level": 3
+    }
+  ]
+}

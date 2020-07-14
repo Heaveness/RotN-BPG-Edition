@@ -1,0 +1,281 @@
+[
+  {
+    "names": [
+      "toughasnails:jelled_slime_helmet",
+      "toughasnails:jelled_slime_chestplate",
+      "toughasnails:jelled_slime_leggings",
+      "toughasnails:jelled_slime_boots"
+    ],
+    "modifier": -3
+  },
+  {
+    "names": [
+      "toughasnails:wool_helmet",
+      "toughasnails:wool_chestplate",
+      "toughasnails:wool_leggings",
+      "toughasnails:wool_boots"
+    ],
+    "modifier": 3
+  },
+  {
+    "names": [
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "minecraft:chainmail_helmet",
+      "minecraft:chainmail_chestplate",
+      "minecraft:chainmail_leggings",
+      "minecraft:chainmail_boots"
+    ],
+    "modifier": -2
+  },
+  {
+    "names": [
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "minecraft:golden_helmet",
+      "minecraft:golden_chestplate",
+      "minecraft:golden_leggings",
+      "minecraft:golden_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "minecraft:diamond_helmet",
+      "minecraft:diamond_chestplate",
+      "minecraft:diamond_leggings",
+      "minecraft:diamond_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "mod_lavacow:felarmor_helmet",
+      "mod_lavacow:felarmor_chestplate",
+      "mod_lavacow:felarmor_leggings",
+      "mod_lavacow:felarmor_boots"
+    ],
+    "modifier": -4
+  },
+  {
+    "names": [
+      "aether_legacy:neptune_helmet",
+      "aether_legacy:neptune_chestplate",
+      "aether_legacy:neptune_leggings",
+      "aether_legacy:neptune_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "aether_legacy:valkyrie_helmet",
+      "aether_legacy:valkyrie_chestplate",
+      "aether_legacy:valkyrie_leggings",
+      "aether_legacy:valkyrie_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "aether_legacy:phoenix_helmet",
+      "aether_legacy:phoenix_chestplate",
+      "aether_legacy:phoenix_leggings",
+      "aether_legacy:phoenix_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "aquaculture:neptunium_helmet",
+      "aquaculture:neptunium_chestplate",
+      "aquaculture:neptunium_leggings",
+      "aquaculture:neptunium_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "iceandfire:deathworm_yellow_helmet",
+      "iceandfire:deathworm_yellow_chestplate",
+      "iceandfire:deathworm_yellow_leggings",
+      "iceandfire:deathworm_yellow_boots"
+    ],
+    "modifier": 0
+  },
+  {
+    "names": [
+      "iceandfire:deathworm_white_helmet",
+      "iceandfire:deathworm_white_chestplate",
+      "iceandfire:deathworm_white_leggings",
+      "iceandfire:deathworm_white_boots"
+    ],
+    "modifier": 0
+  },
+  {
+    "names": [
+      "iceandfire:deathworm_red_helmet",
+      "iceandfire:deathworm_red_chestplate",
+      "iceandfire:deathworm_red_leggings",
+      "iceandfire:deathworm_red_boots"
+    ],
+    "modifier": 0
+  },
+  {
+    "names": [
+      "iceandfire:myrmex_desert_helmet",
+      "iceandfire:myrmex_desert_chestplate",
+      "iceandfire:myrmex_desert_leggings",
+      "iceandfire:myrmex_desert_boots"
+    ],
+    "modifier": -2
+  },
+  {
+    "names": [
+      "iceandfire:myrmex_jungle_helmet",
+      "iceandfire:myrmex_jungle_chestplate",
+      "iceandfire:myrmex_jungle_leggings",
+      "iceandfire:myrmex_jungle_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "iceandfire:sheep_helmet",
+      "iceandfire:sheep_chestplate",
+      "iceandfire:sheep_leggings",
+      "iceandfire:sheep_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "iceandfire:dragonsteel_fire_helmet",
+      "iceandfire:dragonsteel_fire_chestplate",
+      "iceandfire:dragonsteel_fire_leggings",
+      "iceandfire:dragonsteel_fire_boots"
+    ],
+    "modifier": -2
+  },
+  {
+    "names": [
+      "iceandfire:dragonsteel_ice_helmet",
+      "iceandfire:dragonsteel_ice_chestplate",
+      "iceandfire:dragonsteel_ice_leggings",
+      "iceandfire:dragonsteel_ice_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "iceandfire:tide_blue_helmet",
+      "iceandfire:tide_blue_chestplate",
+      "iceandfire:tide_blue_leggings",
+      "iceandfire:tide_blue_boots"
+    ],
+    "modifier": 0
+  },
+  {
+    "names": [
+      "iceandfire:tide_deepblue_helmet",
+      "iceandfire:tide_deepblue_chestplate",
+      "iceandfire:tide_deepblue_leggings",
+      "iceandfire:tide_deepblue_boots"
+    ],
+    "modifier": 0
+  },
+  {
+    "names": [
+      "iceandfire:tide_teal_helmet",
+      "iceandfire:tide_teal_chestplate",
+      "iceandfire:tide_teal_leggings",
+      "iceandfire:tide_teal_boots"
+    ],
+    "modifier": 0
+  },
+  {
+    "names": [
+      "iceandfire:forest_troll_leather_helmet",
+      "iceandfire:forest_troll_leather_chestplate",
+      "iceandfire:forest_troll_leather_leggings",
+      "iceandfire:forest_troll_leather_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "iceandfire:frost_troll_leather_helmet",
+      "iceandfire:frost_troll_leather_chestplate",
+      "iceandfire:frost_troll_leather_leggings",
+      "iceandfire:frost_troll_leather_boots"
+    ],
+    "modifier": 3
+  },
+  {
+    "names": [
+      "iceandfire:mountain_troll_leather_helmet",
+      "iceandfire:mountain_troll_leather_chestplate",
+      "iceandfire:mountain_troll_leather_leggings",
+      "iceandfire:mountain_troll_leather_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "ebwizardry:wizard_hat_fire",
+      "ebwizardry:wizard_robe_fire",
+      "ebwizardry:wizard_leggings_fire",
+      "ebwizardry:wizard_boots_fire"
+    ],
+    "modifier": 4
+  },
+  {
+    "names": [
+      "ebwizardry:wizard_hat_ice",
+      "ebwizardry:wizard_robe_ice",
+      "ebwizardry:wizard_leggings_ice",
+      "ebwizardry:wizard_boots_ice"
+    ],
+    "modifier": -4
+  },
+  {
+    "names": [
+      "ebwizardry:wizard_hat_necromancy",
+      "ebwizardry:wizard_robe_necromancy",
+      "ebwizardry:wizard_leggings_necromancy",
+      "ebwizardry:wizard_boots_necromancy"
+    ],
+    "modifier": -2
+  },
+  {
+    "names": [
+      "ebwizardry:wizard_hat_healing",
+      "ebwizardry:wizard_robe_healing",
+      "ebwizardry:wizard_leggings_healing",
+      "ebwizardry:wizard_boots_healing"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+	"twilightforest:arctic_helmet",
+	"twilightforest:arctic_chestplate",
+	"twilightforest:arctic_leggings",
+	"twilightforest:arctic_boots"
+    ],
+    "modifier": 4
+  }
+]

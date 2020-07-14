@@ -1,0 +1,199 @@
+{
+  "general": {
+    "doEffectsInCreative": false,
+    "waterSubstractFactor": 10
+  },
+  "handlers": {
+    "explosion": {
+      "enabled": true,
+      "opacity": 1.0,
+      "dust": {
+        "enabled": false,
+        "opacity": 1.0,
+        "scale": 1.0,
+        "animationSpeed": 0
+      },
+      "dustDuration": {
+        "min": 500,
+        "max": 1000
+      },
+      "dustAmount": {
+        "min": 0,
+        "minValue": 0,
+        "max": 20,
+        "maxValue": 30
+      },
+      "maxExplosionVolume": 0.5,
+      "explosionSoundTime": {
+        "min": 0,
+        "minValue": 50,
+        "max": 20,
+        "maxValue": 200
+      },
+      "blur": {
+        "enabled": false,
+        "opacity": 1.0
+      },
+      "maxBlur": {
+        "min": 0,
+        "minValue": 50,
+        "max": 10,
+        "maxValue": 100
+      },
+      "explosionBlurTime": {
+        "min": 0,
+        "minValue": 10,
+        "max": 20,
+        "maxValue": 20
+      }
+    },
+    "potion": {
+      "enabled": true,
+      "opacity": 1.0,
+      "duration": {
+        "min": 30,
+        "max": 60
+      },
+      "potion": {
+        "enabled": false,
+        "opacity": 1.0,
+        "scale": 1.0,
+        "animationSpeed": 0
+      }
+    },
+    "sand": {
+      "enabled": true,
+      "opacity": 1.0,
+      "duration": {
+        "min": 100,
+        "max": 100
+      },
+      "sprintModifier": 1.5,
+      "sand": {
+        "enabled": false,
+        "opacity": 1.0,
+        "scale": 0.5,
+        "animationSpeed": 0
+      }
+    },
+    "splash": {
+      "enabled": true,
+      "opacity": 1.0,
+      "duration": {
+        "min": 10,
+        "max": 10
+      },
+      "intensity": {
+        "min": 5,
+        "max": 10
+      },
+      "blur": {
+        "enabled": false,
+        "opacity": 1.0
+      }
+    },
+    "damage": {
+      "enabled": true,
+      "opacity": 1.0,
+      "bloodDuration": {
+        "min": 500,
+        "max": 1500
+      },
+      "fireSplashes": 1,
+      "fireDuration": {
+        "min": 100,
+        "max": 1000
+      },
+      "drownSplashes": 4,
+      "drownDuration": {
+        "min": 10,
+        "max": 15
+      }
+    },
+    "slender": {
+      "enabled": true,
+      "opacity": 1.0,
+      "defaultIntensity": 0,
+      "maxIntensity": 0.3,
+      "distanceFactor": 0.25,
+      "slender": {
+        "enabled": false,
+        "opacity": 1.0,
+        "scale": 1.0,
+        "animationSpeed": 50
+      }
+    },
+    "saturation": {
+      "enabled": true,
+      "opacity": 1.0,
+      "fadeFactor": 0.0005,
+      "saturation": {
+        "min": 2,
+        "minValue": 0,
+        "max": 8,
+        "maxValue": 1
+      },
+      "desaturate": {
+        "enabled": false,
+        "opacity": 1.0
+      }
+    },
+    "heartbeat": {
+      "enabled": true,
+      "opacity": 1.0,
+      "useHealthPercentage": false,
+      "maxHealth": 6,
+      "maxHealthPercentage": 0.3,
+      "heartbeatIntensity": 50.0,
+      "heartbeatDuration": 5,
+      "minHeartbeatLength": 15,
+      "heartbeatTimeFactor": 100.0,
+      "heartbeatVolume": 1.0,
+      "lowhealth": {
+        "enabled": false,
+        "opacity": 1.0,
+        "scale": 1.0,
+        "animationSpeed": 0
+      },
+      "blur": {
+        "enabled": false,
+        "opacity": 1.0
+      }
+    },
+    "thirst": {
+      "enabled": true,
+      "opacity": 1.0,
+      "defaultIntensity": 0,
+      "maxIntensity": 5,
+      "fadeFactor": 0.05000000074505806,
+      "thirstLevel": {
+        "min": 2,
+        "max": 8
+      },
+      "focus": {
+        "enabled": false,
+        "opacity": 1.0
+      }
+    },
+    "temperature": {
+      "enabled": true,
+      "opacity": 1.0,
+      "defaultIntensity": 0,
+      "mediumIntensity": 0.2,
+      "maxIntensity": 0.4,
+      "fadeFactor": 0.005,
+      "freeze": {
+        "enabled": false,
+        "opacity": 1.0,
+        "scale": 1.0,
+        "animationSpeed": 0
+      },
+      "heat": {
+        "enabled": false,
+        "opacity": 1.0,
+        "scale": 1.0,
+        "animationSpeed": 0
+      }
+    }
+  }
+}

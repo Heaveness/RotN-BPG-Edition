@@ -1,0 +1,27 @@
+{
+  "name": "levelup:naturalarmor",
+  "type": "levelup:combat_bonus",
+  "levels": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    9,
+    10
+  ],
+  "prerequisites": [
+
+  ],
+  "divisor": 33,
+  "stack": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "column": 4,
+  "row": 0,
+  "enabled": true,
+  "active": true
+}

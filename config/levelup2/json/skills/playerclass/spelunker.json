@@ -1,0 +1,16 @@
+{
+  "name": "levelup:spelunker",
+  "bonus": "levelup:mining_bonus",
+  "localized_name": "Apprentice",
+  "description": "Consumer of all knowledge. The eagerness to learn all trades.(Recommended for solo players)",
+  "skills": [
+    {
+      "name": "levelup:combat_bonus",
+      "level": 1
+    },
+    {
+      "name": "levelup:craft_bonus",
+      "level": 1
+    }
+  ]
+}

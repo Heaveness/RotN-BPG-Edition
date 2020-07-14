@@ -1,0 +1,23 @@
+{
+  "name": "levelup:prospecting",
+  "type": "levelup:mining_bonus",
+  "levels": [
+    2,
+    3,
+    5,
+    6,
+    7
+  ],
+  "prerequisites": [
+    "levelup:stonecutting"
+  ],
+  "divisor": 25,
+  "stack": {
+    "item": "thaumcraft:cluster",
+    "data": 1
+  },
+  "column": 1,
+  "row": 1,
+  "enabled": true,
+  "active": true
+}
